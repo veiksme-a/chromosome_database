@@ -1,1 +1,1 @@
-# chromosome_database
+This project was a group assignment to create a browser for chromosome 16 using a GenBank file containing information on multiple loci present in the chromosome. I was responsible for creating the database and APIs to connect it to other layers.
